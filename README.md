@@ -40,6 +40,7 @@ This is a setup of a rails application with webpack
     <li><a href="https://ubuntu.com/">Terminal</a></li>
     <li><a href="https://code.visualstudio.com/">Visual Studio</a></li>
     <li><a href="https://webpack.js.org/">Webpack</a></li>
+    <li><a href="https://reactjs.org/">React</a></li>
   </ul>
 </details>
 
