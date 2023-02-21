@@ -1,13 +1,10 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Greeting from './components/greeting';
+import App from './components/App';
 
-function App() {
-  return (<Greeting />);
-}
 
 ReactDOM.render(
-  <App/>,
+    <App />,
   document.getElementById('root'),
 );
